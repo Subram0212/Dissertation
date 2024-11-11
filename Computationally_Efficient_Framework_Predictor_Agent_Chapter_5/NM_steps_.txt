@@ -1,0 +1,3 @@
+At iterate    1, X1=155.0 X2=4.0 X3=4.0
+At iterate    2, X1=155.0 X2=4.0 X3=4.0
+At iterate    3, X1=155.0 X2=4.0 X3=4.0
